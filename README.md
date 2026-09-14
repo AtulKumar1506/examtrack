@@ -1,8 +1,12 @@
 # 🎓 ExamTrack — Student Exam Preparation Tracker
 
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Open_ExamTrack_Website-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atulkumar1506.github.io/examtrack/)
+[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-22c55e?style=for-the-badge&logo=github)](https://atulkumar1506.github.io/examtrack/)
+
+👉 **Direct Web Link**: [https://atulkumar1506.github.io/examtrack/](https://atulkumar1506.github.io/examtrack/)
+
 > **“Prepare Smarter. Track Your Progress. Ace Your Exams.”**
 
-ExamTrack is a modern, clean, responsive SaaS-style web application built for college and school students to plan, track, and optimize their exam preparation in one centralized dashboard.
 
 ![ExamTrack Dashboard Preview](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&auto=format&fit=crop&q=80)
 
